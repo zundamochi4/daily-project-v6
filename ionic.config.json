@@ -1,0 +1,7 @@
+{
+  "name": "daily-project",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
